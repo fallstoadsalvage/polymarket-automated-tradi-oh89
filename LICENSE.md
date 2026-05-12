@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket trading-bot with Polymarket vip Trading Bot: trailing-stops & slippage-control. Featuring trailing-stops and slippage-control, it's the best choice for
 
 
 
